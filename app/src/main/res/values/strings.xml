@@ -1,0 +1,12 @@
+<resources>
+ <string name="app_name">EpamAndroidTask3</string>
+    <string name="on_create">onCreate()</string>
+    <string name="on_start">onStart()</string>
+    <string name="on_restart">onRestart()</string>
+    <string name="on_resume">onResume()</string>
+    <string name="on_pause">onPause()</string>
+    <string name="on_stop">onStop()</string>
+    <string name="on_destroy">onDestroy()</string>
+    <string name="button_activity2_start">Start 2nd activity</string>
+   <string name="button_activity3_start">Start 3rd activity</string>
+</resources>
